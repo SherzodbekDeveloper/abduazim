@@ -1,0 +1,110 @@
+{
+     "posts":[
+          
+          {
+               "id": 3,
+               "title": "The Future of JavaScript",
+               "createdAt": "2026-01-15T14:45:00.000Z",
+               "excerpt": "JavaScript is constantly evolving. Let's explore where it's headed in the next few years.",
+               "slug": "future-of-javascript"
+          },
+          {
+               "id": 4,
+               "title": "Understanding Web Performance",
+               "createdAt": "2024-11-22T09:30:00.000Z",
+               "excerpt": "Website speed matters more than ever. Learn how to optimize your web performance for better user experience.",
+               "slug": "understanding-web-performance"
+          },
+          {
+               "id": 5,
+               "title": "The Rise of Serverless Architecture",
+               "createdAt": "2023-07-05T16:00:00.000Z",
+               "excerpt": "Serverless is changing the way we build applications. Is it the right choice for your next project?",
+               "slug": "rise-of-serverless-architecture"
+          },
+          {
+               "id": 6,
+               "title": "CSS Tricks You Need to Know",
+               "createdAt": "2023-03-19T11:20:00.000Z",
+               "excerpt": "CSS is more powerful than ever. Here are some tricks to take your styling skills to the next level.",
+               "slug": "css-tricks-you-need"
+          },
+          {
+               "id": 7,
+               "title": "A Deep Dive into TypeScript",
+               "createdAt": "2022-09-10T13:00:00.000Z",
+               "excerpt": "TypeScript is becoming a must-learn language. Let's take a deep dive into its features and best practices.",
+               "slug": "deep-dive-typescript"
+          },
+          {
+               "id": 8,
+               "title": "React Best Practices for 2024",
+               "createdAt": "2024-05-18T07:45:00.000Z",
+               "excerpt": "React is constantly evolving. These are the best practices you should follow in 2024.",
+               "slug": "react-best-practices-2024"
+          },
+          {
+               "id": 9,
+               "title": "Understanding REST vs GraphQL",
+               "createdAt": "2023-12-01T18:10:00.000Z",
+               "excerpt": "REST and GraphQL are two popular API architectures. Let's compare their pros and cons.",
+               "slug": "rest-vs-graphql"
+          },
+          {
+               "id": 10,
+               "title": "Web Security Essentials",
+               "createdAt": "2022-06-14T20:30:00.000Z",
+               "excerpt": "Security is crucial in web development. Learn the essential practices to keep your apps secure.",
+               "slug": "web-security-essentials"
+          },
+          {
+               "id": 11,
+               "title": "The Evolution of Frontend Frameworks",
+               "createdAt": "2025-08-25T12:00:00.000Z",
+               "excerpt": "From jQuery to modern frameworks, the frontend landscape has changed significantly.",
+               "slug": "evolution-frontend-frameworks"
+          },
+          {
+               "id": 13,
+               "title": "The Importance of Clean Code",
+               "createdAt": "2023-10-08T22:00:00.000Z",
+               "excerpt": "Writing clean, maintainable code is essential for long-term project success.",
+               "slug": "importance-of-clean-code"
+          },
+          {
+               "id": 14,
+               "title": "The Basics of Next.js",
+               "createdAt": "2024-02-14T09:50:00.000Z",
+               "excerpt": "Next.js is one of the most popular frameworks for React. Learn the basics and get started today.",
+               "slug": "basics-of-nextjs"
+          },
+          {
+               "id": 15,
+               "title": "State Management in React",
+               "createdAt": "2025-06-30T13:25:00.000Z",
+               "excerpt": "Managing state in React can be tricky. Here are some best practices to follow.",
+               "slug": "state-management-react"
+          },
+          {
+               "id": 16,
+               "title": "Building Engineering Culture in Remote Teams",
+               "createdAt": "2025-02-15T14:00:00.000Z",
+               "excerpt": "Remote work presents unique challenges for building strong engineering cultures. Here's what I've learned.",
+               "slug": "engineering-culture-remote-teams"
+          },
+          {
+               "id": 17,
+               "title": "The Art of Technical Communication",
+               "createdAt": "2025-01-30T09:45:00.000Z",
+               "excerpt": "Effective communication is perhaps the most underrated skill in software engineering. Let's explore why.",
+               "slug": "art-technical-communication"
+          },
+          {
+               "id": 18,
+               "title": "Balancing Innovation and Stability",
+               "createdAt": "2025-01-14T17:20:00.000Z",
+               "excerpt": "How do you balance the excitement of new technologies with the stability needs of production systems?",
+               "slug": "innovation-stability-balance"
+          }
+     ]
+}
