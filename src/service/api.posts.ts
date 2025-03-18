@@ -8,7 +8,7 @@ export const getLatestPosts = async (): Promise<{
   try {
     const res = await axios.get(`${API_URL}/posts`);
     return {
-      data: res.data.posts,
+      data: res.data,
       status: res.status,
     };
   } catch (error) {
